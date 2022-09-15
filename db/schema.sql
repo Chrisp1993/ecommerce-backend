@@ -1,0 +1,5 @@
+-- DROP DATABASE
+DROP DATABASE IF EXISTS ecommerce_backend;
+
+-- CREATE DATABASE
+CREATE DATABASE ecommerce_backend;
